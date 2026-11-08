@@ -157,7 +157,7 @@ Tabla `usuarios` (la misma de la PFO 2):
 
 1. Clonar este repositorio:
    ```bash
-   git clone <URL-DEL-REPOSITORIO>
+   git clone <[https://github.com/hugotorrent/TORRENT_HUGO_PFO3_Programacion_sobre_redes_ifts29.git]>
    cd <CARPETA-DEL-REPOSITORIO>
    ```
 
